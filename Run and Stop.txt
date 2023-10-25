@@ -1,0 +1,5 @@
+Hbase ==> start-hbase.sh
+hadoop@LAPTOP-1US3GU3J:/usr/local/Hbase/bin$ sudo ./hbase shell
+Hadoop ==> start-all.sh ==> stop-all.sh
+airflow ==> hadoop@LAPTOP-1US3GU3J:~$ source airflow_env/bin/activate
+            airflow webserver -p8080
